@@ -1,0 +1,8 @@
+#http://showrss.info personal url
+feedURL: http://showrss.info/user/55838.rss?magnets=true&namespaces=true&name=null&quality=fhd&re=null
+#transmission configuration
+transmission: 
+    host: 192.168.1.57:9091
+    user: transmission
+    password: transmission
+    removeCompletes: yes
