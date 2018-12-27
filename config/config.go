@@ -14,6 +14,7 @@ type Config struct {
 	SourceFolder string             `yaml:"sourceFolder"`
 	TargetFolder string             `yaml:"targetFolder"`
 	VideoExts    []string           `yaml:"videoExts"`
+	TestMode     bool               `yaml:"testMode"`
 }
 
 //TransmissionConfig Config about transmission

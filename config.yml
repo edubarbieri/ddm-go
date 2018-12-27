@@ -10,4 +10,6 @@ transmission:
 sourceFolder: /Volumes/U01/transmission/completes
 targetFolder: /Volumes/U01/media/tvshows
 videoExts: [".mp4", ".mkv", ".avi", ".wmv", ".mpg", ".mpeg"]
+seriesFormat : "{name}/Season {season}/{name} - S{season}E{episode} - {title}"
+testMode: yes
 
